@@ -22,5 +22,8 @@
   "homepage": "https://github.com/moye-dev/gulu#readme",
   "dependencies": {
     "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
   }
 }
