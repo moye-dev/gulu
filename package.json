@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/moye-dev/gulu/issues"
   },
-  "homepage": "https://github.com/moye-dev/gulu#readme"
+  "homepage": "https://github.com/moye-dev/gulu#readme",
+  "dependencies": {
+    "vue": "^3.2.33"
+  }
 }
